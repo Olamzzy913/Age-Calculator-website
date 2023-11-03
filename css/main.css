@@ -1,0 +1,23 @@
+@media (max-width: 480px) {
+    .stl {
+        position: absolute;
+        width: 300px;
+        left: 0;
+    }
+
+    .contain {
+        margin: 0.75rem 0;
+        left: 0;
+    }
+
+    #btn {
+        position: absolute;
+        left: 130px;
+        margin-bottom: 6rem;
+    }
+
+    .area div {
+        margin: 0 0.5rem;
+    }
+
+}    
